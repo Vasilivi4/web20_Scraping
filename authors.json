@@ -1,0 +1,202 @@
+[
+    {
+        "author": "Albert Einstein",
+        "author_url": "http://quotes.toscrape.com/author/Albert-Einstein"
+    },
+    {
+        "author": "J.K. Rowling",
+        "author_url": "http://quotes.toscrape.com/author/J-K-Rowling"
+    },
+    {
+        "author": "Jane Austen",
+        "author_url": "http://quotes.toscrape.com/author/Jane-Austen"
+    },
+    {
+        "author": "Marilyn Monroe",
+        "author_url": "http://quotes.toscrape.com/author/Marilyn-Monroe"
+    },
+    {
+        "author": "André Gide",
+        "author_url": "http://quotes.toscrape.com/author/Andre-Gide"
+    },
+    {
+        "author": "Thomas A. Edison",
+        "author_url": "http://quotes.toscrape.com/author/Thomas-A-Edison"
+    },
+    {
+        "author": "Eleanor Roosevelt",
+        "author_url": "http://quotes.toscrape.com/author/Eleanor-Roosevelt"
+    },
+    {
+        "author": "Steve Martin",
+        "author_url": "http://quotes.toscrape.com/author/Steve-Martin"
+    },
+    {
+        "author": "Bob Marley",
+        "author_url": "http://quotes.toscrape.com/author/Bob-Marley"
+    },
+    {
+        "author": "Dr. Seuss",
+        "author_url": "http://quotes.toscrape.com/author/Dr-Seuss"
+    },
+    {
+        "author": "Douglas Adams",
+        "author_url": "http://quotes.toscrape.com/author/Douglas-Adams"
+    },
+    {
+        "author": "Elie Wiesel",
+        "author_url": "http://quotes.toscrape.com/author/Elie-Wiesel"
+    },
+    {
+        "author": "Friedrich Nietzsche",
+        "author_url": "http://quotes.toscrape.com/author/Friedrich-Nietzsche"
+    },
+    {
+        "author": "Mark Twain",
+        "author_url": "http://quotes.toscrape.com/author/Mark-Twain"
+    },
+    {
+        "author": "Allen Saunders",
+        "author_url": "http://quotes.toscrape.com/author/Allen-Saunders"
+    },
+    {
+        "author": "Pablo Neruda",
+        "author_url": "http://quotes.toscrape.com/author/Pablo-Neruda"
+    },
+    {
+        "author": "Ralph Waldo Emerson",
+        "author_url": "http://quotes.toscrape.com/author/Ralph-Waldo-Emerson"
+    },
+    {
+        "author": "Mother Teresa",
+        "author_url": "http://quotes.toscrape.com/author/Mother-Teresa"
+    },
+    {
+        "author": "Garrison Keillor",
+        "author_url": "http://quotes.toscrape.com/author/Garrison-Keillor"
+    },
+    {
+        "author": "Jim Henson",
+        "author_url": "http://quotes.toscrape.com/author/Jim-Henson"
+    },
+    {
+        "author": "Charles M. Schulz",
+        "author_url": "http://quotes.toscrape.com/author/Charles-M-Schulz"
+    },
+    {
+        "author": "William Nicholson",
+        "author_url": "http://quotes.toscrape.com/author/William-Nicholson"
+    },
+    {
+        "author": "Jorge Luis Borges",
+        "author_url": "http://quotes.toscrape.com/author/Jorge-Luis-Borges"
+    },
+    {
+        "author": "George Eliot",
+        "author_url": "http://quotes.toscrape.com/author/George-Eliot"
+    },
+    {
+        "author": "George R.R. Martin",
+        "author_url": "http://quotes.toscrape.com/author/George-R-R-Martin"
+    },
+    {
+        "author": "C.S. Lewis",
+        "author_url": "http://quotes.toscrape.com/author/C-S-Lewis"
+    },
+    {
+        "author": "Martin Luther King Jr.",
+        "author_url": "http://quotes.toscrape.com/author/Martin-Luther-King-Jr"
+    },
+    {
+        "author": "James Baldwin",
+        "author_url": "http://quotes.toscrape.com/author/James-Baldwin"
+    },
+    {
+        "author": "Haruki Murakami",
+        "author_url": "http://quotes.toscrape.com/author/Haruki-Murakami"
+    },
+    {
+        "author": "Alexandre Dumas fils",
+        "author_url": "http://quotes.toscrape.com/author/Alexandre-Dumas-fils"
+    },
+    {
+        "author": "Stephenie Meyer",
+        "author_url": "http://quotes.toscrape.com/author/Stephenie-Meyer"
+    },
+    {
+        "author": "Ernest Hemingway",
+        "author_url": "http://quotes.toscrape.com/author/Ernest-Hemingway"
+    },
+    {
+        "author": "Helen Keller",
+        "author_url": "http://quotes.toscrape.com/author/Helen-Keller"
+    },
+    {
+        "author": "George Bernard Shaw",
+        "author_url": "http://quotes.toscrape.com/author/George-Bernard-Shaw"
+    },
+    {
+        "author": "Charles Bukowski",
+        "author_url": "http://quotes.toscrape.com/author/Charles-Bukowski"
+    },
+    {
+        "author": "Suzanne Collins",
+        "author_url": "http://quotes.toscrape.com/author/Suzanne-Collins"
+    },
+    {
+        "author": "J.R.R. Tolkien",
+        "author_url": "http://quotes.toscrape.com/author/J-R-R-Tolkien"
+    },
+    {
+        "author": "Alfred Tennyson",
+        "author_url": "http://quotes.toscrape.com/author/Alfred-Tennyson"
+    },
+    {
+        "author": "Terry Pratchett",
+        "author_url": "http://quotes.toscrape.com/author/Terry-Pratchett"
+    },
+    {
+        "author": "J.D. Salinger",
+        "author_url": "http://quotes.toscrape.com/author/J-D-Salinger"
+    },
+    {
+        "author": "George Carlin",
+        "author_url": "http://quotes.toscrape.com/author/George-Carlin"
+    },
+    {
+        "author": "John Lennon",
+        "author_url": "http://quotes.toscrape.com/author/John-Lennon"
+    },
+    {
+        "author": "W.C. Fields",
+        "author_url": "http://quotes.toscrape.com/author/W-C-Fields"
+    },
+    {
+        "author": "Ayn Rand",
+        "author_url": "http://quotes.toscrape.com/author/Ayn-Rand"
+    },
+    {
+        "author": "Jimi Hendrix",
+        "author_url": "http://quotes.toscrape.com/author/Jimi-Hendrix"
+    },
+    {
+        "author": "J.M. Barrie",
+        "author_url": "http://quotes.toscrape.com/author/J-M-Barrie"
+    },
+    {
+        "author": "E.E. Cummings",
+        "author_url": "http://quotes.toscrape.com/author/E-E-Cummings"
+    },
+    {
+        "author": "Khaled Hosseini",
+        "author_url": "http://quotes.toscrape.com/author/Khaled-Hosseini"
+    },
+    {
+        "author": "Harper Lee",
+        "author_url": "http://quotes.toscrape.com/author/Harper-Lee"
+    },
+    {
+        "author": "Madeleine L'Engle",
+        "author_url": "http://quotes.toscrape.com/author/Madeleine-LEngle"
+    }
+]
